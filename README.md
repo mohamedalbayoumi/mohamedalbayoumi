@@ -39,8 +39,13 @@
 <a href="https://www.linkedin.com/in/mohamed-elbauomy-958aa1221"
    target="_blank"
    rel="noopener noreferrer">
-  <img src="assets/linkedin.svg" width="42" alt="LinkedIn"/>
+  <img align="center"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+       alt="Mohamed Albayoumi LinkedIn"
+       height="30"
+       width="30" />
 </a>
+
 
 </div>
 
