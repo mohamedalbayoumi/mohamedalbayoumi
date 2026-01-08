@@ -5,11 +5,13 @@
 <h2>Hi 👋 I'm Mohamed Albayoumi</h2>
 <h4>Software Tester | Manual QA | Automation & Performance Testing Learner</h4>
 
+<!-- Social badges -->
 <a href="https://www.linkedin.com/in/mohamed-elbauomy-958aa1221"
    target="_blank"
    rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Albayoumi-blue?style=flat&logo=linkedin">
 </a>
+
 <a href="https://mohamedalbayoumi.github.io/personal-website/"
    target="_blank"
    rel="noopener noreferrer">
@@ -21,6 +23,31 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedalbayoumi&style=flat&color=orange)
 
 </div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mohamedelbauomy616@gmail.com"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="assets/gmail.svg" width="42" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-elbauomy-958aa1221"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="assets/linkedin.svg" width="42" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<p align="center">
+📧 <strong>mohamedelbauomy616@gmail.com</strong> |
+🌐 <a href="https://mohamedalbayoumi.github.io/personal-website/" target="_blank">Personal Website</a>
+</p>
 
 ---
 
