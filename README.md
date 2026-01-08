@@ -5,10 +5,14 @@
 <h2>Hi 👋 I'm Mohamed Albayoumi</h2>
 <h4>Software Tester | Manual QA | Automation & Performance Testing Learner</h4>
 
-<a href="https://www.linkedin.com/in/mohamed-elbauomy-958aa1221">
+<a href="https://www.linkedin.com/in/mohamed-elbauomy-958aa1221"
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Albayoumi-blue?style=flat&logo=linkedin">
 </a>
-<a href="https://mohamedalbayoumi.github.io/personal-website/">
+<a href="https://mohamedalbayoumi.github.io/personal-website/"
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome">
 </a>
 
